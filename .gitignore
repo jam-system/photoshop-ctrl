@@ -1,0 +1,11 @@
+build-*/
+*.o
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+.qmake.stash
+Makefile*
+*.pro.user*
+compile_commands.json
+.vscode/

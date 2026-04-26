@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="main.qml">/home/jam/lightroom-ctrl/main.qml</file>
+</qresource>
+</RCC>
